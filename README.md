@@ -11,9 +11,9 @@ For a description of the partition file format see the RAxML [manual](http://sco
 For most files a generated [maximum parsimony](https://en.wikipedia.org/wiki/Maximum_parsimony_%28phylogenetics%29) tree is also provided.
 
 
-** DNA datasets
+## DNA datasets
 
-** Protein datasets
+## Protein datasets
 
 * _Branchiostoma floridae_ genome.
 
