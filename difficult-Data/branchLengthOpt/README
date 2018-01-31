@@ -1,0 +1,3 @@
+This dataset showed to be difficult for standard RAxML branch length optimization, depending on the default branch length value it 
+yielded wildy varying log likelihood scores, when juzt evaluating fixed trees. For details on how it was invoked check the command 
+line in the RAxML_info. file 
